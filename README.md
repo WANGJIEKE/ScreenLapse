@@ -28,7 +28,7 @@ To stop, just send a `KeyboardInterrupt` (e.g. pressing `^C`).
 
 To convert the frames into a video, you may consider using something like [FFmpeg](https://ffmpeg.org/).
 
-For example, if you want to convert the frames into a 24-FPS video into MP4 format with default settings,
+For example, if you want to convert the frames into a 24-FPS video in MP4 format with default settings,
 you may use the following command.
 
 ```shell script
